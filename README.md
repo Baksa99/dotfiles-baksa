@@ -1,7 +1,7 @@
 # **Mi configuración de Neovim**
 
 
-### Algunos Plugins que utilice
+#### Algunos Plugins que utilice
 
 - [Bufferline](https://github.com/akinsho/bufferline.nvim)
 - [Neo-tree](https://github.com/nvim-neo-tree/neo-tree.nvim)
