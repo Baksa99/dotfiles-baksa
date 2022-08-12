@@ -1,1 +1,1 @@
-**Mi configuración de Neovim**
+<title>Mi configuración de Neovim</title>
