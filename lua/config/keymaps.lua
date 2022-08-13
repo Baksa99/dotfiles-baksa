@@ -43,6 +43,7 @@ vim('nnoremap <A-s> :BufferLineCloseLeft<CR>')
 
 ------------------------------------------------------
 --------------------Move Window-----------------------
+vim('nnoremap <C-w> :w<CR>')
 vim('nnoremap <A-q> :q<CR>')
 map('n', '<C-h>', '<C-w>h', default_opts)
 map('n', '<C-l>', '<C-w>l', default_opts)
